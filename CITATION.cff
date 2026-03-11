@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use SESR-Bench, please cite it as below."
+title: "SESR-Bench: Clearance-Aware Evaluation for Visual-Inertial Odometry"
+authors:
+  - family-names: Dholakia
+    given-names: Stavan
+    orcid: ""
+  - family-names: Singh
+    given-names: Abhishek
+  - family-names: Gazta
+    given-names: Aditya
+  - family-names: Shukla
+    given-names: Shivani
+version: 0.1.0
+date-released: "2025"
+url: "https://github.com/stavandholakia/sesr-bench"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Dholakia
+      given-names: Stavan
+    - family-names: Singh
+      given-names: Abhishek
+    - family-names: Gazta
+      given-names: Aditya
+    - family-names: Shukla
+      given-names: Shivani
+  title: "SESR-Bench: Clearance-Aware Evaluation for Visual-Inertial Odometry"
+  journal: "arXiv preprint"
+  year: 2025

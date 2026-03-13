@@ -36,3 +36,4 @@ results/figures/*.png
 !results/figures/*.pdf
 !results/tables/*.tex
 !results/*.json
+!data/trajectories/**/*.txt
